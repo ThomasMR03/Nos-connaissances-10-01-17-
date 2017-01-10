@@ -32,3 +32,11 @@ li {
 	background: #CECECE;
 	color: #FF0000;
 }
+
+noscript a {
+	color: #FF0000;
+}
+
+noscript {
+	color: #CECECE;
+}
