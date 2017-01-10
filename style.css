@@ -1,5 +1,9 @@
 * {
-	background: #9E9E9E; /* Couleur de fond */
+	/*background: #9E9E9E; /* Couleur de fond */
+}
+
+body {
+	background-image: url(http://www.assembleedesmedias.fr/wp-content/uploads/2014/11/FOND-ETOILE-web-HD.jpg);
 }
 
 h1 {
