@@ -1,0 +1,13 @@
+Algorithme ajoutCase {Titre de l'algo}
+{écrit 200 cases}
+
+Variables numCase: entier {Déclaration Var}
+Constantes (SEUIL: entier) <~ 200 {Déclaration Constante}
+	
+Debut {Début de traitement}
+	 Pour numCase Allant de 1 A SEUIL Au pas de 1
+	 	Faire afficher ("<p>", numCase, "</p>")
+	 	
+	 	Fpour
+	
+Fin {FIN de traitement}

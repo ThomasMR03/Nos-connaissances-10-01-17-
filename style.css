@@ -4,7 +4,7 @@
 
 h1 {
 	color: 	#FF0000; /* Couleur du texte pour H1 */
-	font-family: 'Comic Sans MS', cursive; /* Police d'écriture */
+	font-family: Verdana, sans-serif; /* Police d'écriture */
 	text-align: center;
 	text-decoration: underline;
 	padding: 10px;
@@ -22,8 +22,8 @@ p {
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	width: 40px; 
-	height: 40px;
+	width: 39px; 
+	height: 39px;
 	border: 1px dotted #FEFEFE; /* Bordure */
 	background: #CECECE;
 }
